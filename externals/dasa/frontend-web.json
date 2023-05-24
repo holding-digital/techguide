@@ -1,0 +1,192 @@
+{
+  "name": "Front-end Web",
+  "expertises": [
+    {
+      "name": "Nivel 1 - Básico",
+      "cards": [
+        {
+          "id": "html-css-ambiente-arquivos-tags"
+        },
+        {
+          "id": "html-css-classes-posicionamento-flexbox"
+        },
+        {
+          "id": "html5-css3-formularios-tabelas"
+        },
+        {
+          "id": "html5-css3-avancando-css"
+        },
+        {
+          "id": "logica-programacao-javascript-html"
+        },
+        {
+          "id": "logica-programacao-pratica-com-desenho-animacoes-em-jogo"
+        },
+        {
+          "id": "javascript-introducao"
+        },
+        {
+          "id": "javascript-programando-na-linguagem-web"
+        },
+        {
+          "id": "javascript-web-validacao-formularios-html5"
+        },
+        {
+          "id": "javascript-padroes-abordagem-funcional"
+        },
+        {
+          "id": "typescript-evoluindo-javascript"
+        },
+        {
+          "id": "typescript-avancando-linguagem"
+        },
+        {
+          "id": "react-js"
+        },
+        {
+          "id": "react-modernizando-escrever-typescript"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 2 - Intermediário",
+      "cards": [
+        {
+          "id": "mobile-first-layouts-responsivos"
+        },
+        {
+          "id": "javascript-es6-orientacao-a-objetos-parte-1"
+        },
+        {
+          "id": "fundamentos-javascript-objetos"
+        },
+        {
+          "id": "javascritpt-orientacao-objetos"
+        },
+        {
+          "id": "javascript-polimorfismo"
+        },
+        {
+          "id": "typescript-tecnicas-boas-praticas"
+        },
+        {
+          "id": "react-router-navegacao-spa"
+        },
+        {
+          "id": "react-context-estados-globais-contextapi"
+        },
+        {
+          "id": "acessibilidade-web-front-end"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 3 - Avançado",
+      "cards": [
+        {
+          "id": "javascript-es6-orientacao-a-objetos-parte-2"
+        },
+        {
+          "id": "react-automatizando-testes"
+        },
+        {
+          "id": "webpack-modulos-webapp"
+        },
+        {
+          "id": "angular-dependency-injection"
+        },
+        {
+          "id": "jenkins-integracao-continua"
+        },
+        {
+          "id": "pipeline-ci-jenkins-docker"
+        },
+        {
+          "name": "Microfrontends com Angular",
+          "short-description": "Microfrontends com Angular",
+          "key-objectives": [
+            "Conhecer o conceito de microfrontends",
+            "Conhecer o Module Federation do Webpack"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Webpack - Module Federation",
+              "link": "https://webpack.js.org/concepts/module-federation/"
+            },
+            {
+              "type": "SITE",
+              "title": "Microfontends",
+              "link": "https://micro-frontends.org/"
+            },
+            {
+              "type": "PODCAST",
+              "title": "Hipsters 164 - Microfrontends",
+              "link": "https://www.hipsters.tech/microfrontends-hipsters-164/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Fundamentos Web",
+      "cards": [
+        {
+          "id": "html-fundamentals"
+        },
+        {
+          "id": "css-fundamentals"
+        },
+        {
+          "id": "javascript-fundamentals"
+        },
+        {
+          "id": "dom-fundamentals"
+        },
+        {
+          "id": "javascript-accessibility"
+        },
+        {
+          "id": "seo-strategies"
+        },
+        {
+          "id": "responsive-design"
+        },
+        {
+          "id": "http-fundamentals"
+        }
+      ]
+    },
+    {
+      "name": "Complementar",
+      "cards": [
+        {
+          "id": "introducao-design-patterns-java"
+        },
+        {
+          "id": "avancando-design-patterns-java"
+        },
+        {
+          "id": "solid-orientacao-objetos-java"
+        },
+        {
+          "id": "java-domain-driven-design-conceitos"
+        }
+      ]
+    },
+    {
+      "name": "Controle de Versão",
+      "cards": [
+        {
+          "id": "frontend-semantic-versioning"
+        },
+        {
+          "id": "git-and-github-fundamentals"
+        }
+      ]
+    }
+  ]
+}

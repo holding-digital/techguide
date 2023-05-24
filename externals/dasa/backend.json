@@ -1,0 +1,202 @@
+{
+    "name": "NodeJS",
+    "expertises": [
+        {
+            "name": "Nivel 1 - Básico",
+            "cards": [
+                {
+                    "id": "javascript-fundamentals"
+                },
+                {
+                    "id": "git-and-github-fundamentals"
+                },
+                {
+                    "id": "javascript-callbacks-promises"
+                },
+                {
+                    "id": "javascript-errorhandling"
+                },
+                {
+                    "id": "json"
+                },
+                {
+                    "id": "nodejs-fundamentals"
+                },
+                {
+                    "id": "nodejs-testing"
+                }
+            ]
+        },
+        {
+            "name": "Nivel 2 - Intermediário",
+            "cards": [
+                {
+                    "id": "http-fundamentals"
+                },
+                {
+                    "id": "oop-concepts"
+                },
+                {
+                    "id": "nodejs-express"
+                },
+                {
+                    "id": "nodejs-authentication-tokens"
+                },
+                {
+                    "id": "nodejs-orm"
+                },
+                {
+                    "id": "typescript-fundamentals"
+                },
+                {
+                    "id": "solid"
+                },
+                {
+                    "id": "clean-code"
+                }
+            ]
+        },
+        {
+            "name": "Nivel 3 - Avançado",
+            "cards": [
+                {
+                    "id": "nestjs-fundamentals"
+                },
+                {
+                    "id": "containers"
+                },
+                {
+                    "id": "microservices"
+                },
+                {
+                    "id": "graphql"
+                },
+                {
+                    "id": "design-patterns"
+                },
+                {
+                    "id": "kafka"
+                }
+            ]
+        }
+    ],
+    "collaborations": [
+        {
+            "name": "DevOps",
+            "cards": [
+                {
+                    "id": "linux-fundamentals"
+                },
+                {
+                    "id": "command-line-fundamentals"
+                },
+                {
+                    "id": "scripting"
+                },
+                {
+                    "id": "ci-cd"
+                },
+                {
+                    "name": "Jenkins",
+                    "short-description": "Manipulando CI/CD com Jenkins",
+                    "key-objectives": [
+                        "Conhecer a ferramenta Jenkins",
+                        "Criar projetos e pipelines automatizadas dentro do Jenkins"
+                    ],
+                    "additional-objectives": [],
+                    "contents": [
+                        {
+                            "type": "COURSE",
+                            "title": "Jenkins: integração contínua",
+                            "link": "https://cursos.alura.com.br/course/jenkins-integracao-continua"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "Jenkins e Docker: Pipeline de entrega continua",
+                            "link": "https://cursos.alura.com.br/course/pipeline-ci-jenkins-docker"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bases de dados / Clouds",
+            "cards": [
+                {
+                    "id": "cloud-fundamentals"
+                },
+                {
+                    "id": "sql-fundamentals"
+                },
+                {
+                    "name": "PostgresSQL",
+                    "short-description": "Conhecendo a base de dados PostgresSQL",
+                    "key-objectives": [
+                        "Conhecer a base de dados PostgreSQL.",
+                        "Saber criar e gerenciar estrutura de bases eficientes."
+                    ],
+                    "additional-objectives": [],
+                    "contents": [
+                        {
+                            "type": "COURSE",
+                            "title": "Introdução ao PostgresSQL",
+                            "link": "https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "PostgreSQL: Views, Sub-Consultas e Funções",
+                            "link": "https://cursos.alura.com.br/course/postgresql-views-sub-consultas-funcoes"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "PostgreSQL: comandos DML e DDL",
+                            "link": "https://cursos.alura.com.br/course/pgsql-comandos-dml-ddl"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "PostgreSQL: desenvolva com PL/pgSQL",
+                            "link": "https://cursos.alura.com.br/course/postgresql-procedures"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "PostgreSQL: Triggers, transações, erros e cursores",
+                            "link": "https://cursos.alura.com.br/course/postgresql-triggers-transacoes-erros-cursores"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "PostgreSQL: administração e otimização do banco",
+                            "link": "https://cursos.alura.com.br/course/postgresql-administracao-otimizacao"
+                        }
+                    ]
+                },
+                {
+                    "name": "Redis",
+                    "short-description": "Conhecendo a base de dados Redis",
+                    "key-objectives": [
+                        "Conhecer a base de dados PostgreSQL.",
+                        "Implementação de estratégias de cache em aplicações.",
+                        "Saber criar e gerenciar estrutura de chave-valor eficientes."
+                    ],
+                    "additional-objectives": [],
+                    "contents": [
+                        {
+                            "type": "ARTICLE",
+                            "title": "Redis: instalação e primeiros comandos",
+                            "link": "https://www.alura.com.br/artigos/redis-instalacao-primeiros-comandos"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "Redis I: armazenando chaves e valores",
+                            "link": "https://cursos.alura.com.br/course/nosql-chave-valor-com-redis-1"
+                        },
+                        {
+                            "type": "COURSE",
+                            "title": "Redis II: estruturas e recursos na sua base NoSQL",
+                            "link": "https://cursos.alura.com.br/course/nosql-chave-valor-com-redis-2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

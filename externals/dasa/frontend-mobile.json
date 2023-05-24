@@ -1,0 +1,127 @@
+{
+  "name": "Front-end Mobile",
+  "expertises": [
+    {
+      "name": "Nivel 1 - Básico",
+      "cards": [
+        {
+          "id": "logica-programacao-javascript-html"
+        },
+        {
+          "id": "logica-programacao-pratica-com-desenho-animacoes-em-jogo"
+        },
+        {
+          "id": "javascript-introducao"
+        },
+        {
+          "id": "http-fundamentos"
+        },
+        {
+          "id": "typescript-evoluindo-javascript"
+        },
+        {
+          "id": "typescript-avancando-linguagem"
+        },
+        {
+          "id": "react-native-comecando-zero"
+        },
+        {
+          "id": "react-native-rotas"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 2 - Intermediário",
+      "cards": [
+        {
+          "id": "fundamentos-javascript-objetos"
+        },
+        {
+          "id": "javascritpt-orientacao-objetos"
+        },
+        {
+          "id": "javascript-polimorfismo"
+        },
+        {
+          "id": "typescript-tecnicas-boas-praticas"
+        },
+        {
+          "id": "react-hooks-e-formularios"
+        },
+        {
+          "id": "react-native-function-components"
+        },
+        {
+          "id": "design-system-componentes-documentando"
+        }
+      ]
+    },
+    {
+      "name": "Nivel 3 - Avançado",
+      "cards": [
+        {
+          "id": "javascript-es6-orientacao-a-objetos-parte-2"
+        },
+        {
+          "id": "react-native-criando-testes-aplicacao"
+        },
+        {
+          "name": "Intro to Redux - Scalable state management",
+          "short-description": "Conhecendo Redux",
+          "key-objectives": [
+            "Conhecer o uso de Redux"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "SITE",
+              "title": "Intro to Redux - Scalable state management",
+              "link": "https://www.itpro.tv/courses/devprotv/introredux/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Fundamentos Web",
+      "cards": [
+        {
+          "id": "javascript-fundamentals"
+        },
+        {
+          "id": "http-fundamentals"
+        }
+      ]
+    },
+    {
+      "name": "Complementar",
+      "cards": [
+        {
+          "id": "introducao-design-patterns-java"
+        },
+        {
+          "id": "avancando-design-patterns-java"
+        },
+        {
+          "id": "solid-orientacao-objetos-java"
+        },
+        {
+          "id": "java-domain-driven-design-conceitos"
+        }
+      ]
+    },
+    {
+      "name": "Controle de Versão",
+      "cards": [
+        {
+          "id": "frontend-semantic-versioning"
+        },
+        {
+          "id": "git-and-github-fundamentals"
+        }
+      ]
+    }
+  ]
+}
