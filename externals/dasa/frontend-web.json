@@ -152,10 +152,25 @@
           "id": "git-and-github-fundamentals"
         },
         {
-          "id": "jenkins-integracao-continua"
-        },
-        {
-          "id": "pipeline-ci-jenkins-docker"
+          "name": "Jenkins",
+          "short-description": "Manipulando CI/CD com Jenkins",
+          "key-objectives": [
+            "Conhecer a ferramenta Jenkins",
+            "Criar projetos e pipelines automatizadas dentro do Jenkins"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Jenkins: integração contínua",
+              "link": "https://cursos.alura.com.br/course/jenkins-integracao-continua"
+            },
+            {
+              "type": "COURSE",
+              "title": "Jenkins e Docker: Pipeline de entrega continua",
+              "link": "https://cursos.alura.com.br/course/pipeline-ci-jenkins-docker"
+            }
+          ]
         }
       ]
     }
