@@ -5,28 +5,34 @@
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "id": "logica-programacao-javascript-html"
+          "id": "javascript-fundamentals"
         },
         {
-          "id": "logica-programacao-pratica-com-desenho-animacoes-em-jogo"
+          "id": "react-components"
         },
         {
-          "id": "javascript-introducao"
+          "id": "react-props"
         },
         {
-          "id": "http-fundamentos"
-        },
-        {
-          "id": "typescript-evoluindo-javascript"
-        },
-        {
-          "id": "typescript-avancando-linguagem"
-        },
-        {
-          "id": "react-native-comecando-zero"
-        },
-        {
-          "id": "react-native-rotas"
+          "name": "React Native - Básico",
+          "short-description": "Fundamentos básicos do React native",
+          "key-objectives": [
+            "Aprender a criar um projeto React Native",
+            "Aprender os conceitos básicos de React Native"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "React Native: criando um app",
+              "link": "https://cursos.alura.com.br/course/react-native-comecando-zero"
+            },
+            {
+              "type": "COURSE",
+              "title": "React Native: AsyncStorage e Navegação",
+              "link": "https: //cursos.alura.com.br/course/react-native-rotas"
+            }
+          ]
         }
       ]
     },
@@ -34,25 +40,38 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
-          "id": "fundamentos-javascript-objetos"
+          "id": "react-hooks-state"
         },
         {
-          "id": "javascritpt-orientacao-objetos"
+          "id": "json"
         },
         {
-          "id": "javascript-polimorfismo"
+          "id": "typescript-fundamentals"
         },
         {
-          "id": "typescript-tecnicas-boas-praticas"
+          "id": "react-webrouting"
         },
         {
-          "id": "react-hooks-e-formularios"
+          "id": "javascript-callbacks-promises"
         },
         {
-          "id": "react-native-function-components"
+          "id": "javascript-errorhandling"
         },
         {
-          "id": "design-system-componentes-documentando"
+          "name": "React Native - Intermediário",
+          "short-description": "Fundamentos intermediários do React native",
+          "key-objectives": [
+            "Aprender a criar um projeto React Native",
+            "Aprender os conceitos intermediários de React Native"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "React Native: Trabalhando com Function components",
+              "link": "https://cursos.alura.com.br/course/react-native-function-components"
+            }
+          ]
         }
       ]
     },
@@ -60,22 +79,40 @@
       "name": "Nivel 3 - Avançado",
       "cards": [
         {
-          "id": "javascript-es6-orientacao-a-objetos-parte-2"
+          "id": "react-testing-library"
         },
         {
-          "id": "react-native-criando-testes-aplicacao"
+          "id": "graphql"
         },
         {
-          "name": "Intro to Redux - Scalable state management",
-          "short-description": "Conhecendo Redux",
+          "id": "apollo-client"
+        },
+        {
+          "id": "react-hooks-effect"
+        },
+        {
+          "id": "react-hooks-memo"
+        },
+        {
+          "id": "react-hooks-ref"
+        },
+        {
+          "id": "react-hooks-callback"
+        },
+        {
+          "id": "react-design-system-libraries"
+        },
+        {
+          "name": "Redux",
+          "short-description": "Fundamentos de Redux no React",
           "key-objectives": [
-            "Conhecer o uso de Redux"
+            "Aprender os fundamentos de Redux no React"
           ],
           "additional-objectives": [],
           "contents": [
             {
-              "type": "SITE",
-              "title": "Intro to Redux - Scalable state management",
+              "type": "COURSE",
+              "title": "Introdução ao Redux",
               "link": "https://www.itpro.tv/courses/devprotv/introredux/"
             }
           ]
@@ -85,41 +122,39 @@
   ],
   "collaborations": [
     {
-      "name": "Fundamentos Web",
+      "name": "Fundamentos Extra Mobile",
       "cards": [
-        {
-          "id": "javascript-fundamentals"
-        },
         {
           "id": "http-fundamentals"
+        },
+        {
+          "id": "oop-concepts"
         }
       ]
     },
     {
-      "name": "Complementar",
+      "name": "Boas Práticas / DevOps",
       "cards": [
         {
-          "id": "introducao-design-patterns-java"
+          "id": "solid"
         },
         {
-          "id": "avancando-design-patterns-java"
+          "id": "clean-code"
         },
         {
-          "id": "solid-orientacao-objetos-java"
+          "id": "design-patterns"
         },
-        {
-          "id": "java-domain-driven-design-conceitos"
-        }
-      ]
-    },
-    {
-      "name": "Controle de Versão",
-      "cards": [
         {
           "id": "frontend-semantic-versioning"
         },
         {
           "id": "git-and-github-fundamentals"
+        },
+        {
+          "id": "jenkins-integracao-continua"
+        },
+        {
+          "id": "pipeline-ci-jenkins-docker"
         }
       ]
     }
